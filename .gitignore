@@ -1,0 +1,12 @@
+/dist/
+/build/
+/nbproject/private/
+/foldertest/
+/logs/
+/data/
+/data2/
+/storage/
+/testdata/
+manifest.mf
+/web/monitor/bower_components/
+/web/monitor/nbproject/private/
